@@ -1,6 +1,6 @@
 # Learning-content
 
-#creation of new account from ethers js:
+# creation of new account from ethers js:
 
 var ethers = require('ethers');  
 var crypto = require('crypto');
